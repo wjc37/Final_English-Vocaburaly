@@ -1,0 +1,89 @@
+{
+  "learned": {
+    "비난하다::admonish": {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:36:09"
+    },
+    "칭찬하다::acclaim": {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:36:52"
+    },
+    "칭찬하다::accolade": {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:36:40"
+    },
+    "칭찬하다::adulation": {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:36:41"
+    },
+    "칭찬하다::approbation": {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:36:42"
+    },
+    "농업/시골::agriculture": {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:38:24"
+    }
+  },
+  "learned_log": [
+    {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:36:09",
+      "word_key": "비난하다::admonish",
+      "word": "admonish",
+      "category": "비난하다"
+    },
+    {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:36:40",
+      "word_key": "칭찬하다::acclaim",
+      "word": "acclaim",
+      "category": "칭찬하다"
+    },
+    {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:36:40",
+      "word_key": "칭찬하다::accolade",
+      "word": "accolade",
+      "category": "칭찬하다"
+    },
+    {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:36:41",
+      "word_key": "칭찬하다::adulation",
+      "word": "adulation",
+      "category": "칭찬하다"
+    },
+    {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:36:42",
+      "word_key": "칭찬하다::approbation",
+      "word": "approbation",
+      "category": "칭찬하다"
+    },
+    {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:36:52",
+      "word_key": "칭찬하다::acclaim",
+      "word": "acclaim",
+      "category": "칭찬하다"
+    },
+    {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:38:24",
+      "word_key": "농업/시골::agriculture",
+      "word": "agriculture",
+      "category": "농업/시골"
+    }
+  ],
+  "points_log": [
+    {
+      "date": "2026-06-20",
+      "marked_at": "2026-06-20T23:37:33",
+      "points": 1,
+      "word_key": "더럽히다/모독하다::desecrate",
+      "word": "desecrate",
+      "category": "더럽히다/모독하다"
+    }
+  ]
+}
